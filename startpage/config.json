@@ -1,0 +1,40 @@
+{
+  "squares": [
+    { "name": "media", "links": [
+        { "name": "Netflix", "url": "https://netflix.com" },
+        { "name": "lbry", "url": "https://lbry.tv" },
+        { "name": "aniwatch", "url": "https://aniwatch.me"}
+      ]
+    },
+    { "name": "work", "links": [
+        { "name": "Github", "url": "https://github.com" },
+        { "name": "Gitlab", "url": "https://gitlab.com" }
+      ]
+    },
+    { "name": "social", "links": [
+        { "name": "Reddit", "url": "https://reddit.com" }
+      ]
+    },
+    {
+      "name": "Others", "links": [
+        {"name": "mail", "url": "https://mail.protonmail.com/"},
+        {"name": "monkey-type", "url": "https://monkey-type.com/"},
+        {"name": "keybr", "url": "https://keybr.com"}
+
+
+      ]
+    }
+  ],
+  "searchEngine":"DuckDuckGo",
+  "user": "lambda",
+  "disableMessage": false,
+  "disableDate": false,
+  "disableSearchBar": true,
+  "disable24Hour": true,
+  "disableWeather": false,
+  "weatherConf": {
+    "location": "lyon",
+    "unit": "cel"
+  }
+  
+}
